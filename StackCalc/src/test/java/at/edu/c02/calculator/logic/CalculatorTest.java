@@ -32,7 +32,7 @@ public class CalculatorTest {
 		calc.push(3);
 		double result = calc.perform(Operation.mul);
 
-		assertEquals(6, result, 0);
+		assertEquals(5, result, 0);
 
 	}
 	
